@@ -1,3 +1,13 @@
+## Functionalities to add
+1. Users can enter by paying for a ticket 
+    1. The ticket fees are going to go to the winner at the time of draw
+2. After X period of time, the lottery the lottery will automatically draw a winner when the time is up
+    1. programmatically
+3. Using chainlink VRF and Chainlink Automation
+    1. Chainlink VRF -> randomness
+    2. Chainlink Automation -> Time based Trigger
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
