@@ -7,6 +7,14 @@
     1. Chainlink VRF -> randomness
     2. Chainlink Automation -> Time based Trigger
 
+## Tests!
+
+1. Write some deploy scripts
+2. Write our tests
+    1. Work on a local chains
+    2. Forked Testnet
+    3. Forked Mainnet
+    
 
 ## Foundry
 
